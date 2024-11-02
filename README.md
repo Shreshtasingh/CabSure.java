@@ -21,3 +21,10 @@ Example Usage
 Select Vehicle: Input your choice between petrol and diesel.
 Enter Distance: Provide the kilometers you plan to travel.
 Get Fare: The application displays the estimated fare for your trip.
+
+Future Enhancements
+Potential features for future updates:
+
+User registration and login system for personalized experiences.
+Integration with a mapping service to calculate distance automatically.
+A graphical user interface (GUI) for better user interaction.
